@@ -1,0 +1,160 @@
+.start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+.toftext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    color: darkblue;
+    width: 100%;
+}
+
+.q1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    color: yellow;
+    font-size: 50px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.question1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tof1 {
+    display: flex;
+    justify-content: center;
+    visibility: hidden;
+}
+
+.a1a {
+    margin: 50px;
+}
+
+.a1b {
+    margin: 50px;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+    visibility: hidden;
+}
+
+.q2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    font-size: 50px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    visibility: hidden;
+}
+
+.tof2 {
+    display: flex;
+    justify-content: center;
+    visibility: hidden;
+}
+
+.a2a {
+    margin: 50px;
+}
+
+.a2b {
+    margin: 50px;
+}
+
+.searchtitle {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.blackscreensearch {
+    visibility: hidden;
+}
+
+.no1 {
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    margin-left: 200px;
+}
+
+
+.no2 {
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    margin-left: 400px;
+}
+
+.no3 {
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    margin-left: 350px;
+}
+
+.yes1 {
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    margin-left: 380px;
+}
+
+.no5 {
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    margin-left: 590px;
+}
+
+.win {
+    visibility: hidden;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.secretquestions {
+    visibility: hidden;
+}
+
+.secretq1 {
+    display: flex;
+    justify-content: center;
+}
+
+.a3a {
+    margin: 20px;
+}
+
+.a3b {
+    margin: 20px;
+}
+
+.tof3 {
+    display: flex;
+    justify-content: center;
+}
+
+.trueend {
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+}
